@@ -1,8 +1,8 @@
-# Developing a Neural Network Classification Model
+3# Developing a Neural Network Classification Model
 
-### Name: Shree Chandru R
+### Name: MUKESH M
 
-### Register Number: 212224230264
+### Register Number: 212225240093
 
 ## AIM
 To develop a neural network classification model for the given dataset.
